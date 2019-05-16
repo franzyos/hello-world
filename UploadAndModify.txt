@@ -1,2 +1,6 @@
-This is another test.  I'll upload this file and then modify it.
-I successfully uploaded the file.  Next Step is to edit the file, pr, and merge.
+This is another test.  I'll upload this text and then modify it.
+I successfully uploaded the text.  Next Step is to edit the file, pr, and merge.
+Adding some additional text to this line. 
+And adding some additional text to this line.
+
+This is even more text.  Lots of letters and even a few spaces.
